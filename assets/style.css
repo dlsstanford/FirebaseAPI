@@ -1,0 +1,10 @@
+ 
+.panel-body a {
+    word-break: break-all;
+  }
+
+  body {
+      background-image: url("train.jpg");
+       background-size: 100%;
+       z-index: -1;
+  }
