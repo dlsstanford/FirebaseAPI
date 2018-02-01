@@ -71,8 +71,6 @@ $(function () {
 
         // adds them to page
         var trainSection = $("<div>");
-        trainSection.addClass("well");
-        trainSection.attr("id", "train-well-" + trainCounter);
         $("#train-section").append(trainSection);
 
 
